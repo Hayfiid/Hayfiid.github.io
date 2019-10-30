@@ -1,7 +1,7 @@
 body{
     font-family: 16px/28px Arial, sans-serif;
     background-color: #eaeaea;
-    background-image: url(../asset/background.jpg);
+    background-image: url(background.jpg);
     color: #333;
 }
 
@@ -38,7 +38,7 @@ body{
 
 .hero{
     height: 250px;
-    background-image: url(../asset/kopilaptop.png);
+    background-image: url(kopilaptop.png);
     background-size: cover;
     border-bottom: 5px solid lightskyblue;
     border-top: 4px solid salmon;
